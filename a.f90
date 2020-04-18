@@ -1,4 +1,4 @@
 program hello
     print *, 'Hello World!'
-    print *, 'Hello '
+    print *, 'Hello a'
   end program hello

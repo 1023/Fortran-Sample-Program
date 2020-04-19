@@ -7,5 +7,5 @@ program EX21
     write(6,*) 'r1=' ,r1,'r2=',r2,'h=',h
     v=pai*(r2**2-r1**2)*h/4.0 !**は累乗を意味する
     s=pai*((r2**2-r1**2)/2.0+(r1+r2)*h)
-    write(6,*)'v=',v,'s=',s
+    write(6,*)'v=',v,'s=', s
 End

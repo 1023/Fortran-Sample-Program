@@ -1,7 +1,7 @@
 # Fortran-Sample-Program
 実践Fortran95プログラミング第３版　の例題及びホームワークのプログラムがアップロードされています。
   
-各章で学ぶ文
+各章で学ぶ文  
 3章.処理の流れの計算  
  real文,integer文,logical文,go to文  
  if文,ブロックif文,else文,else if文,end if文  

@@ -17,4 +17,8 @@
 #### _5章.配列_  
 　dimension文,配列式 部分配列  
 　allocate文,deallocate文,parameter文,data文  
+ 
+#### _6章.組み込み関数_  
+　組み込み関数  
+ 
 

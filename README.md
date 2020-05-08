@@ -7,6 +7,7 @@
 　+ if文,ブロックif文,else文,else if文,end if文  
 　+ select case文,case文,end case文  
 　+ read文,write文(書式付き:i型,f型,e型,l型),format文  
+ - リスト1
 　論理演算
 #### _4章.繰り返し計算_  
 　do文,do文 while文,read文(書式付き:f型,i型)  

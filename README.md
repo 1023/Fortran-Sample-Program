@@ -11,7 +11,7 @@
 ### _4章.繰り返し計算_  
 　　・do文,do文 while文,read文(書式付き:f型,i型)  
 　　・write文(書式付き:x型)  
-　・　end do文,continue文,cycle文,exit文
+　　・end do文,continue文,cycle文,exit文
 ### _5章.配列_  
 　　・dimension文,配列式 部分配列  
 　　・allocate文,deallocate文,parameter文,data文
